@@ -1,0 +1,5 @@
+name: RplPlaceholder
+main: vip.foxcraft.rplplaceholder.RplPlaceholder
+version: 1.0.0
+author: Saukiya
+softdepend: [PlaceholderAPI, RPGPlayerLeveling]
